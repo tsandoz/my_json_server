@@ -1,4 +1,5 @@
-{
+[
+  {
     "username": "Tim",
     "password": "abc123",
     "userTimelog": [
@@ -25,6 +26,67 @@
         "type": "start",
         "timestamp": 1618460037
       }
-          ]
+      ]
+    ]
+  },
+  {
+    "username": "Dr.Zoidberg",
+    "password": "woopwoopwoop",
+    "userTimelog": [
+        [
+      {
+        "type": "start",
+        "timestamp": 1618449037
+      },
+      {
+        "type": "stop",
+        "timestamp": 1618459037
+      }
+      ],
+      [{
+        "type": "start",
+        "timestamp": 1618460037
+      },
+      {
+        "type": "stop",
+        "timestamp": 1618469037
+      }],
+      [
+          {
+        "type": "start",
+        "timestamp": 1618460037
+      }
+      ]
+    ]
+  },
+  {
+    "username": "Batman",
+    "password": "nananana",
+    "userTimelog": [
+        [
+      {
+        "type": "start",
+        "timestamp": 1618449037
+      },
+      {
+        "type": "stop",
+        "timestamp": 1618459037
+      }
+      ],
+      [{
+        "type": "start",
+        "timestamp": 1618460037
+      },
+      {
+        "type": "stop",
+        "timestamp": 1618469037
+      }],
+      [
+          {
+        "type": "start",
+        "timestamp": 1618460037
+      }
+      ]
     ]
   }
+]
