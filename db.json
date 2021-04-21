@@ -1,95 +1,70 @@
 {
-  "users":
-[
-  {
-    "username": "Tim",
-    "password": "abc123",
-    "userTimelog": [
-        [
+    "users": [
       {
-        "type": "start",
-        "timestamp": 1618449037
-      },
-      {
-        "type": "stop",
-        "timestamp": 1618459037
-      }
-      ],
-      [{
-        "type": "start",
-        "timestamp": 1618460037
-      },
-      {
-        "type": "stop",
-        "timestamp": 1618469037
-      }],
-      [
+        "username": "Tim",
+        "password": "abc123",
+        "userTimelog": [
+            {
+            "type": "start",
+            "timestamp": 1618449037
+          },
           {
-        "type": "start",
-        "timestamp": 1618460037
-      }
-      ]
-    ]
-  },
-  {
-    "username": "Dr.Zoidberg",
-    "password": "woopwoopwoop",
-    "userTimelog": [
-        [
-      {
-        "type": "start",
-        "timestamp": 1618449037
-      },
-      {
-        "type": "stop",
-        "timestamp": 1618459037
-      }
-      ],
-      [{
-        "type": "start",
-        "timestamp": 1618460037
-      },
-      {
-        "type": "stop",
-        "timestamp": 1618469037
-      }],
-      [
+            "type": "stop",
+            "timestamp": 1618459037
+          },
           {
-        "type": "start",
-        "timestamp": 1618460037
-      }
-      ]
-    ]
-  },
-  {
-    "username": "Batman",
-    "password": "nananana",
-    "userTimelog": [
-        [
-      {
-        "type": "start",
-        "timestamp": 1618449037
-      },
-      {
-        "type": "stop",
-        "timestamp": 1618459037
-      }
-      ],
-      [{
-        "type": "start",
-        "timestamp": 1618460037
-      },
-      {
-        "type": "stop",
-        "timestamp": 1618469037
-      }],
-      [
+            "type": "start",
+            "timestamp": 1618460037
+          },
           {
-        "type": "start",
-        "timestamp": 1618460037
+            "type": "stop",
+            "timestamp": 1618469037
+          }
+        ]
+      },
+      {
+        "username": "Dr.Zoidberg",
+        "password": "woopwoopwoop",
+        "userTimelog": [
+            {
+            "type": "start",
+            "timestamp": 1618349037
+          },
+          {
+            "type": "stop",
+            "timestamp": 1618359037
+          },
+          {
+            "type": "start",
+            "timestamp": 1618360037
+          },
+          {
+            "type": "stop",
+            "timestamp": 1618369037
+          }
+        ]
+      },
+      {
+        "username": "Batman",
+        "password": "nananana",
+        "userTimelog": [
+            {
+            "type": "start",
+            "timestamp": 1618449037
+          },
+          {
+            "type": "stop",
+            "timestamp": 1618469037
+          },
+          {
+            "type": "start",
+            "timestamp": 1618470037
+          },
+          {
+            "type": "stop",
+            "timestamp": 1618499037
+          }
+        ]
       }
-      ]
     ]
-  }
-]
-}
+  } 
